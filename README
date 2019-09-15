@@ -1,0 +1,15 @@
+Samantha Walker
+2315055
+swalker@chapman.edu
+CPSC350 - 03
+assign1
+
+CPSC_Courses, CPSC_231, CPSC350, assign1, g++ assign1.cpp, ./a.out assign1DNA.txt
+input file: assign1DNA.txt
+use C++
+
+Sources:
+-http://www.cplusplus.com/doc/tutorial/files/
+-https://stackoverflow.com/questions/33268513/calculating-standard-deviation-variance-in-c
+-http://www.cplusplus.com/reference/string/string/npos/
+-https://stackoverflow.com/questions/12225985/how-to-calculate-probability-of-a-letter-in-a-string
